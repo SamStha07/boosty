@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link as LinkScroll } from 'react-scroll';
 import { Link } from 'react-router-dom';
 import ServicesDescription from '../../../../Components/ServicesDescription/ServicesDescription';
 import { Left, Right, Wrapper } from './EngineeringSectionStyled';

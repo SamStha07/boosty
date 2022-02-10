@@ -5,22 +5,22 @@ import blueCard2 from '../../../assests/images/servicesPage/blueCard2.svg';
 export const productsList = [
   {
     platform: 'mobile app',
-    project_name: 'Growthlab',
+    project_name: 'Ecommerce',
     image: blueCard,
   },
   {
     platform: 'web app',
-    project_name: 'Growthlab',
+    project_name: 'Social Media',
     image: yellowCard,
   },
   {
     platform: 'iOS app',
-    project_name: 'Growthlab',
+    project_name: 'Wallet',
     image: blueCard2,
   },
   {
     platform: 'mobile app',
-    project_name: 'Growthlab',
+    project_name: 'Blockchain',
     image: blueCard2,
   },
 ];
